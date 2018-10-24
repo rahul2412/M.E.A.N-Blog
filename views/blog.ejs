@@ -1,0 +1,48 @@
+<html>
+  <head><title>Blog</title>
+   
+   <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"></head>
+  <body style="background:lightblue;color:orange">
+  
+   <nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+  <div class="col-md-6"><a class="navbar-brand" href="/">Home</a></div>
+    <div class="col-md-6">
+      <a class="navbar-brand" href="#">Publish blog</a>
+      </div>
+      </div>
+      </nav>
+      <br><br><br>
+      <div class="col-md-4">
+      </div>
+      <div class="col-md-7">
+     
+ <form action='/addblog' method="post">
+    
+    
+
+    <label for="name"><b>Name&nbsp</b></label>
+    <input type="text" placeholder="Enter Name" name="name" required>
+    <br><br>
+
+    <label for="title"><b>Title&nbsp&nbsp&nbsp</b></label>
+    <input type="text" placeholder="Title of blog..." name="title" required>
+    <br><br>
+
+     <label for="blog">Blog:&nbsp</label>
+  <textarea class="form-control" rows="5" name="blog" required></textarea>
+  <br><br>
+    
+    <button type="submit" class="submitbtn">Publish</button>
+  <br><br>
+  
+  </div>
+</form>
+      
+      </body>
+     
+
+      
+      </html>
