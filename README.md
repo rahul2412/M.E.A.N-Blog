@@ -10,6 +10,8 @@ Users will be able to post their views on latest and trending technologies, whic
 
 ## Running application
 1. Run MongoDb server using command mongod.exe --dbpath="location where you store MongoDb data".
-2. Open CMD on this repository's location and run command node home.js.
+2. Open CMD on this repository's location.
+3. Run command node home.js.
+3. Open localhost:3000 on your browser to use the web application.
 
 
