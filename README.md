@@ -16,7 +16,7 @@ Users will be able to post their views on latest and trending technologies, whic
 
 ## Work sample
 
-## Home page
+## Home page (initial)
 <img src="https://github.com/rahul2412/M.E.A.N-Blog/blob/master/img/Capture1.PNG" alt="Home Page">
 
 ## Publishing blog
