@@ -17,10 +17,10 @@ Users will be able to post their views on latest and trending technologies, whic
 ## Work sample
 
 ## Home page
-<img src="https://github.com/rahul2412/M.E.A.N-Blog/blob/master/Images/Capture1.PNG" alt="Home Page">
+<img src="https://github.com/rahul2412/M.E.A.N-Blog/blob/master/img/Capture1.PNG" alt="Home Page">
 
 ## Publishing blog
-<img src="https://github.com/rahul2412/M.E.A.N-Blog/blob/master/Images/Capture2.PNG" alt="Publishing blog">
+<img src="https://github.com/rahul2412/M.E.A.N-Blog/blob/master/img/Capture2.PNG" alt="Publishing blog">
 
 ## Home page after publishing blog
-<img src="https://github.com/rahul2412/M.E.A.N-Blog/blob/master/Images/Capture3.PNG" alt="Home page after publishing">
+<img src="https://github.com/rahul2412/M.E.A.N-Blog/blob/master/img/Capture3.PNG" alt="Home page after publishing">
