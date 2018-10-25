@@ -14,4 +14,6 @@ Users will be able to post their views on latest and trending technologies, whic
 3. Run command node home.js.
 3. Open localhost:3000 on your browser to use the web application.
 
-
+<img src="https://github.com/rahul2412/M.E.A.N-Blog/blob/master/Images/Capture1.PNG" alt="Home Page">
+<img src="https://github.com/rahul2412/M.E.A.N-Blog/blob/master/Images/Capture2.PNG" alt="Publishing blog">
+<img src="https://github.com/rahul2412/M.E.A.N-Blog/blob/master/Images/Capture3.PNG" alt="Home page after publishing">
