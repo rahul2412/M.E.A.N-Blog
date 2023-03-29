@@ -18,8 +18,8 @@ MongoClient.connect("mongodb://localhost:27017/database", function (err, db) {
      console.log("database fired up;")
      db.collection('blog', function (err, collection) {
        
-d=collection;
-         collection.find().toArray(function(err, items) {
+	d=collection;
+         d.find().toArray(function(err, items) {
             if(err) throw err;
             
             //console.log(items)
